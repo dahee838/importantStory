@@ -1,0 +1,53 @@
+{
+  "scenes": [
+    {
+      "sceneText": "DON'T DIE.",
+      "thatOneBit": "Press 1 and 2 to navigate",
+      "options": ["Page 1"],
+      "nextScenes": [1],
+      "x": 300,
+      "y": 350
+    },
+    {
+      "sceneText": "There was once a weird potato",
+      "thatOneBit": " ",
+      "options": ["Next page", "Previous page"],
+      "nextScenes": [2, 0],
+      "x": 330,
+      "y": 350
+    },
+    {
+      "sceneText": "The potato wanted to be a french fry because he was sad.",
+      "thatOneBit": " ",
+      "options": ["Next page", "Previous page"], 
+      "nextScenes": [3, 1],
+      "x": 360,
+      "y": 350
+    },
+    {
+      "sceneText": "The potato ran into McDonald's in a frantic state",
+      "thatOneBit": " ",
+      "options": ["Next page", "Previous page"],
+      "nextScenes": [4, 2],
+      "x": 390,
+      "y": 350
+    },
+    {
+      "sceneText": "The potato then saw all the frozen dead mass of potato pieces.",
+      "thatOneBit": " ",
+      "options": ["Next page", "Previous page"],
+      "nextScenes": [5, 3],
+      "x": 410,
+      "y": 350
+    },
+    {
+      "sceneText": "The potato changed his mind and decided to bury himself in the ground forever.",
+      "thatOneBit": "THE END.",
+      "options": ["Back to the beginning", "Previous page"],
+      "nextScenes": [0, 4],
+      "x": 440,
+      "y": 350
+
+    }
+  ]
+}
